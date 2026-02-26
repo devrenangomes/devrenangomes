@@ -18,16 +18,16 @@
 
 ## 👨‍💻 About Me
 
-```python
-dev = {
-    "name":     "Renan Gomes",
-    "alias":    "devrenangomes",
-    "role":     "Full Stack Web Developer",
-    "stack":    ["HTML", "CSS", "Python"],
-    "learning": "Always something new 🚀",
-    "motto":    "Code. Build. Evolve."
-}
-```
+<div style="text-align: center;">
+  I am a <strong>Full Stack Web Developer</strong> passionate about turning ideas into real solutions through code. Currently, I'm focused on building scalable applications and modern interfaces, always seeking to learn new technologies and apply best practices. 🚀
+</div>
+
+<br/>
+
+- 💻 **Focus:** HTML, CSS, and Python (always looking to expand my tech stack).
+- 🧩 **Philosophy:** I believe in _"Code. Build. Evolve."_ — We never stop learning!
+- ⚡ **Curiosity:** I love exploring new tools and automating daily processes.
+- 📫 **How to reach me:** (links in the contacts section below!)
 
 ---
 
@@ -43,20 +43,7 @@ dev = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div style="text-align: center;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=devrenangomes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devrenangomes&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="48%" />
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrenangomes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="40%" />
-
-</div>
-
----
-
-## 📈 Commit Activity
+## � Commit Activity
 
 <div style="text-align: center;">
 
@@ -70,8 +57,17 @@ dev = {
 
 <div style="text-align: center;">
 
-<a href="https://github.com/devrenangomes">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/renan-gomes-66750b379/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:renandaluzgomes@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.instagram.com/renangomess04/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://github.com/devrenangomes" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
@@ -81,6 +77,6 @@ dev = {
 <div style="text-align: center;">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-<sub>✨ Crafted with passion by <strong>Renan Gomes</strong></sub>
+<sub> Crafted with passion by <strong>Renan Gomes</strong></sub>
 
 </div>
