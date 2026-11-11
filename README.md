@@ -1,82 +1,124 @@
-<div style="text-align: center;">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Renan%20Gomes&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+# Olá, eu sou o Renan Gomes! 👋
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;HTML+%7C+CSS+%7C+Python+Enthusiast;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
-</a>
-<br/>
+### Desenvolvedor Backend Python | Ciência da Computação
 
-<!-- Profile views badge -->
-<img src="https://komarev.com/ghpvc/?username=devrenangomes&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views" />
+Sou estudante de **Ciência da Computação no CESUPA**, com foco em **desenvolvimento backend utilizando Python** e interesse em expandir meus conhecimentos para as áreas de **Ciência de Dados e Inteligência Artificial**.
 
-</div>
+Tenho experiência prática em projetos envolvendo **APIs REST, autenticação de usuários, bancos de dados relacionais, programação orientada a objetos e testes automatizados**.
+
+Atualmente, busco aprimorar minhas habilidades no desenvolvimento de aplicações backend, aprofundando conhecimentos em arquitetura de software, bancos de dados e boas práticas de programação.
 
 ---
 
-## 👨‍💻 About Me
+### 🛠️ Tecnologias e ferramentas
 
-<div style="text-align: center;">
-  I am a <strong>Full Stack Web Developer</strong> passionate about turning ideas into real solutions through code. Currently, I'm focused on building scalable applications and modern interfaces, always seeking to learn new technologies and apply best practices. 🚀
-</div>
+**Linguagens de programação**
 
-<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 💻 **Focus:** HTML, CSS, and Python (always looking to expand my tech stack).
-- 🧩 **Philosophy:** I believe in _"Code. Build. Evolve."_ — We never stop learning!
-- ⚡ **Curiosity:** I love exploring new tools and automating daily processes.
-- 📫 **How to reach me:** (links in the contacts section below!)
+**Backend e APIs**
 
----
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
-## 🛠️ Tech Stack
+**Bancos de dados**
 
-<div style="text-align: center;">
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+**Análise e visualização de dados**
 
-</div>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
----
+**Desenvolvimento web**
 
-## � Commit Activity
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 
-<div style="text-align: center;">
+**Ferramentas e ambiente de desenvolvimento**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devrenangomes&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" width="95%" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div style="text-align: center;">
-
-<a href="https://www.linkedin.com/in/renan-gomes-66750b379/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:renandaluzgomes@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.instagram.com/renangomess04/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://github.com/devrenangomes" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-<div style="text-align: center;">
+### 🚀 Projetos em destaque
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-<sub> Crafted with passion by <strong>Renan Gomes</strong></sub>
+#### 🔐 API de autenticação e gerenciamento de usuários
 
-</div>
+**Python | Flask | SQLAlchemy | MySQL | Docker**
+
+API para gerenciamento de usuários, com funcionalidades de cadastro, consulta, atualização e exclusão.
+
+- Autenticação utilizando Flask-Login.
+- Armazenamento seguro de senhas com bcrypt.
+- Controle de permissões por perfil de acesso.
+- Persistência de dados com SQLAlchemy e MySQL.
+- Configuração do banco de dados com Docker Compose.
+
+**Repositório:** [Simple Flask Auth](https://github.com/devrenangomes?tab=repositories&q=Simple+Flask+Auth)
+
+#### ✅ API REST de gerenciamento de tarefas
+
+**Python | Flask | REST API | Pytest**
+
+API REST para gerenciamento de tarefas, com operações CRUD e comunicação por JSON.
+
+- Criação, consulta, atualização e exclusão de tarefas.
+- Gerenciamento de títulos, descrições e status de conclusão.
+- Testes automatizados de endpoints utilizando pytest e requests.
+
+**Repositório:** [Tasks Flask CRUD](https://github.com/devrenangomes?tab=repositories&q=Tasks+Flask+CRUD)
+
+#### 🎮 Jogo RPG em Python
+
+**Python | Programação Orientada a Objetos**
+
+Jogo de RPG desenvolvido em Python para aplicação prática de conceitos de orientação a objetos.
+
+- Utilização de classes, encapsulamento, herança e polimorfismo.
+- Modelagem de personagens e sistemas de combate.
+- Organização modular do código.
+
+**Repositório:** [Python Game](https://github.com/devrenangomes?tab=repositories&q=Python+Game)
+
+---
+
+### 📚 Atualmente estudando
+
+Meu foco principal é consolidar uma base sólida em **engenharia de software e desenvolvimento backend com Python**, enquanto avanço gradualmente para dados e inteligência artificial.
+
+- **Backend:** arquitetura de APIs, boas práticas de desenvolvimento e bancos de dados.
+- **Banco de dados:** modelagem relacional, SQL e integração com aplicações.
+- **Ciência de Dados:** análise exploratória, estatística e manipulação de dados com Python.
+- **Machine Learning:** fundamentos de aprendizado supervisionado, regressão e avaliação de modelos.
+
+---
+
+### 🎯 Objetivos profissionais
+
+Meu objetivo é construir uma carreira em **desenvolvimento backend com Python**, participando da criação de aplicações eficientes, escaláveis e bem estruturadas.
+
+A longo prazo, pretendo integrar minhas competências em desenvolvimento de software com **Ciência de Dados e Inteligência Artificial**, explorando a construção de soluções que utilizem dados e modelos inteligentes para resolver problemas reais.
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renandaluzgomes@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devrenangomes)
